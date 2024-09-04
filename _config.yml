@@ -1,5 +1,5 @@
 title: Seerat Sandhu
 logo: assets/img/pic.jpg
 #description: Seerat's Portfolio
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
