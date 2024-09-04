@@ -22,7 +22,7 @@
 - Worked closely with Data Scientists on multiple data analysis use cases, leveraging Git and Jira for version control and project management.
 
 ### Projects
-### End-to-End Customer Churn Data Prediction Model using AI/ML
+### 1. End-to-End Customer Churn Data Prediction Model using AI/ML
 **Project Overview**
 - Customer churn refers to the phenomenon where customers stop using a company’s product or service. It is a critical metric for businesses, as high churn rates can significantly impact revenue and profitability. By predicting which customers are likely to churn, businesses can develop targeted strategies to retain them, thereby reducing the churn rate and increasing customer lifetime value.
 - The project successfully demonstrated the capability to automate a machine learning pipeline and deploy it in an interactive web application. The ability to manage complex tools like Apache Airflow and Streamlit, coupled with overcoming technical hurdles on a Windows-based development environment, highlights a strong foundation in both software development and machine learning operations (MLOps).
@@ -46,7 +46,7 @@
 - Version Control: Git (for managing code and collaboration)
 - Problem Solving: Overcoming WSL setup challenges, configuring a Unix-like environment on Windows, and ensuring cross-platform compatibility.
 
-### Website: Locomotion
+### 2. Website: Locomotion
 **Project Overview**
 - As a biological sciences major, I wanted to present my final project in an engaging and accessible way through a web application.
 - The objective was to demonstrate not only my knowledge of biological locomotion but also my technical skills in web development. By creating this project, I was able to showcase my proficiency in building dynamic, responsive websites that effectively communicate scientific content to a broad audience.
