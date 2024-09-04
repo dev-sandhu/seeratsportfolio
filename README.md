@@ -45,3 +45,16 @@
 - Data Source: Kaggle
 - Version Control: Git (for managing code and collaboration)
 - Problem Solving: Overcoming WSL setup challenges, configuring a Unix-like environment on Windows, and ensuring cross-platform compatibility.
+
+### Website: Locomotion
+**Project Overview**
+- As a biological sciences major, I wanted to present my final project in an engaging and accessible way through a web application.
+- The objective was to demonstrate not only my knowledge of biological locomotion but also my technical skills in web development. By creating this project, I was able to showcase my proficiency in building dynamic, responsive websites that effectively communicate scientific content to a broad audience.
+
+**Project Description**
+- This project involved the development of a web-based platform focused on the exploration of locomotion mechanisms across various species.
+- The goal was to create an educational and informative resource that highlights the diverse adaptations of animals for movement.
+- Although the topic is grounded in biological science, the focus of this project was on utilizing web development skills, specifically HTML, CSS, and JavaScript, to create an interactive and visually appealing interface. The website serves as a demonstration of coding knowledge and the ability to effectively communicate complex information through a web application.
+
+**Skills Utilized**
+- Web Development: HTML, CSS, JavaScript
