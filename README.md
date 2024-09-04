@@ -22,5 +22,26 @@
 - Worked closely with Data Scientists on multiple data analysis use cases, leveraging Git and Jira for version control and project management.
 
 ### Projects
-ML generator
-- Add projects here
+### End-to-End Customer Churn Data Prediction Model using AI/ML
+**Project Overview**
+- Customer churn refers to the phenomenon where customers stop using a company’s product or service. It is a critical metric for businesses, as high churn rates can significantly impact revenue and profitability. By predicting which customers are likely to churn, businesses can develop targeted strategies to retain them, thereby reducing the churn rate and increasing customer lifetime value.
+- The project successfully demonstrated the capability to automate a machine learning pipeline and deploy it in an interactive web application. The ability to manage complex tools like Apache Airflow and Streamlit, coupled with overcoming technical hurdles on a Windows-based development environment, highlights a strong foundation in both software development and machine learning operations (MLOps).
+
+**Project Description**
+- This project involved the development and deployment of a machine learning model for predicting customer churn. The pipeline was built using a range of tools including Apache Airflow for automation, Airbyte for data ingestion, Snowflake for data warehousing, Tableau for exploratory data analysis (EDA), and Streamlit for creating an interactive web application. The project demonstrates both technical expertise and a deep understanding of how data-driven solutions can be leveraged to drive business value.
+- The primary objective was to create an automated, scalable pipeline that could continuously process data, train a model, and provide real-time predictions of customer churn. The project showcases how advanced machine learning techniques can be integrated into business processes to identify potential customer churn early, allowing companies to take proactive measures to retain customers.
+
+**Skills Utilized**
+- Programming Languages: Python
+- Data Ingestion and ELT: Airbyte
+- Data Warehousing: Snowflake
+- Data Visualization: Tableau
+- Machine Learning: Scikit-learn (Random Forest Classifier)
+- Data Preprocessing: Label Encoding, One-Hot Encoding, StandardScaler
+- Exploratory Data Analysis (EDA): Data Visualization, Feature Engineering
+- Automation and Orchestration: Apache Airflow (DAG creation, task automation)
+- Web Application Development: Streamlit
+- Cloud Services: AWS S3 (model storage and retrieval)
+- Data Source: Kaggle
+- Version Control: Git (for managing code and collaboration)
+- Problem Solving: Overcoming WSL setup challenges, configuring a Unix-like environment on Windows, and ensuring cross-platform compatibility.
