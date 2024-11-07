@@ -46,15 +46,25 @@
 - Version Control: Git (for managing code and collaboration)
 - Problem Solving: Overcoming WSL setup challenges, configuring a Unix-like environment on Windows, and ensuring cross-platform compatibility.
 
-### 2. Website: Locomotion
+### 2. Sign Language Interpreter Model Using Deep Learning and Machine Learning
 **Project Overview**
-- As a biological sciences major, I wanted to present my final project in an engaging and accessible way through a web application.
-- The objective was to demonstrate not only my knowledge of biological locomotion but also my technical skills in web development. By creating this project, I was able to showcase my proficiency in building dynamic, responsive websites that effectively communicate scientific content to a broad audience.
+- This project focuses on bridging the communication gap for the deaf and hard-of-hearing communities by building a model that interprets American Sign Language (ASL) gestures into readable text. Utilizing deep learning techniques, the model identifies and translates hand gestures, making it an essential tool for enhancing accessibility and inclusivity.
+- The project demonstrates expertise in computer vision, deep learning, and model deployment, culminating in a real-time, interactive sign language interpreter. The solution leverages advanced neural networks to ensure accurate gesture recognition, showcasing a strong foundation in machine learning for social impact.
 
 **Project Description**
-- This project involved the development of a web-based platform focused on the exploration of locomotion mechanisms across various species.
-- The goal was to create an educational and informative resource that highlights the diverse adaptations of animals for movement.
-- Although the topic is grounded in biological science, the focus of this project was on utilizing web development skills, specifically HTML, CSS, and JavaScript, to create an interactive and visually appealing interface. The website serves as a demonstration of coding knowledge and the ability to effectively communicate complex information through a web application.
+- The sign language interpreter project involves developing a deep learning model that uses computer vision to recognize hand gestures and translate them into readable text. The model pipeline includes data preprocessing, model training, and real-time gesture recognition. Tools such as OpenCV for image processing, TensorFlow/Keras for deep learning model development, and a custom script for webcam integration make up the project's technical framework.
+- The primary objective was to create an accessible, interactive model that can recognize ASL gestures in real time, providing users with instant text-based feedback. The project demonstrates how AI can be applied to address communication barriers, with potential applications in educational and assistive technologies.
 
 **Skills Utilized**
-- Web Development: HTML, CSS, JavaScript
+- Programming Languages: Python
+- Computer Vision: OpenCV (for image capture and processing)
+- Machine Learning and Deep Learning: TensorFlow, Keras (Convolutional Neural Networks for gesture recognition)
+- Data Preprocessing: Image Augmentation, Resizing, Grayscale Conversion
+- Data Visualization: PowerBI, Matplotlib (for analyzing model performance and training insights)
+- Model Training and Tuning: CNN architecture design, Hyperparameter tuning, Data augmentation
+- Automation and Pipeline Development: Python scripting to automate data preprocessing, model training, and real-time gesture recognition
+- Deployment: Integration with webcam for live gesture input and real-time feedback loop
+- Cloud Services: AWS S3 (for model and data storage)
+- Version Control: Git (for tracking project progress and collaboration)
+- Problem Solving: Overcoming challenges in real-time video processing, ensuring robust and accurate gesture recognition across varying lighting conditions, and fine-tuning the model for high accuracy
+tibility.
