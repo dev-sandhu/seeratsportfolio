@@ -35,7 +35,7 @@
 - Programming Languages: Python
 - Data Ingestion and ELT: Airbyte
 - Data Warehousing: Snowflake
-- Data Visualization: Tableau
+- Data Visualization: Salesforce Analytics Studio, PowerBI, Tableau
 - Machine Learning: Scikit-learn (Random Forest Classifier)
 - Data Preprocessing: Label Encoding, One-Hot Encoding, StandardScaler
 - Exploratory Data Analysis (EDA): Data Visualization, Feature Engineering
